@@ -3,5 +3,6 @@ This repository consists of a global data set that was cleaned using Excel and a
 
 The Power BI dashboard looks like 
 
-![image](https://user-images.githubusercontent.com/73467549/202673189-bcc8e363-1d06-4c8e-9ddf-faaed4533181.png)
+![image](https://user-images.githubusercontent.com/73467549/204263788-8f9ffdca-654f-4e6e-9466-5ce3bd462403.png)
+
 

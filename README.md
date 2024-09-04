@@ -1,4 +1,4 @@
-# GlobalSalesAnalysis
+# Global Sales Analysis
 This repository consists of a global data set that was cleaned using Excel and an interactive dashboard was created using Power BI desktop.
 
 The Power BI dashboard looks like 
